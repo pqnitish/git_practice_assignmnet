@@ -3,6 +3,7 @@ function oddEven(num){
         console.log("even;")
     }else{
         console.log("odd");
+        console.log("nitish chandi")
     }
 }
 oddEven(12);
