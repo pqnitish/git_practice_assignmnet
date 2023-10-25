@@ -1,8 +1,8 @@
 function oddEven(num){
     if(num%2==0){
-        console.log("odd;")
+        console.log("even;")
     }else{
-        console.log("even");
+        console.log("odd");
     }
 }
 oddEven(12);
